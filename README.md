@@ -55,6 +55,11 @@ de-silted, and the collected water is used for irrigation within the premises. S
 repurposed for on-site applications. Preventive maintenance of all water infrastructure will continue in the
 coming years to ensure efficient and sustainable resource use.
 
+The installed STP units at SRK House & SRK Empire, which have been in operation since 2024 each STP Unit
+has a capacity of 100KLD, catering to the overall occupancy. Treated water will be stored and used for
+gainful uses. The capacity of the STP was designed based on estimated occupancy and water consumption
+patterns for the facility, which will generate sewage water
+
 The project developing ponds/reservoirs for RWH at Gita Vatika and setting up an STP unit for water reuse
 at SRK Empire and SRK House project sites, Gujarat, Bharat is an initiative for water conservation, storage
 of unutilized water for future requirements, and reusing water. The timelapse study is carried out by
